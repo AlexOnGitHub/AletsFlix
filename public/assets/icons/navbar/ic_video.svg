@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.39215687 0 0 0 0 0.39215687 0 0 0 0 0.39215687 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <image width="213" height="213" xlink:href="data:image/png;base64,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" id="img_1" />
+  </defs>
+  <g id="Path" filter="url(#filter_1)">
+    <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" transform="matrix(0.112676054 0 0 0.112676054 6 4)" />
+    <use stroke="none" fill="#637381" fill-opacity="0.011764706" xlink:href="#path_1" fill-rule="evenodd" />
+    <g clip-path="url(#clip_1)">
+      <use xlink:href="#path_1" fill="none" stroke="#808080" stroke-width="2" />
+    </g>
+  </g>
+</svg>
